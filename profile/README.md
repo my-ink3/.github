@@ -177,9 +177,22 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
 
 #### 🟤 최덕영
 - config server
+  - 다중 서비스 구조룰 위해 Config Server + Git Repo 중앙 설정 저장소 설계
 - ci/cd
+  - 서비스 단위 분리 빌드 파이프라인 설계
+  - 무중단 배포 쉘 스크립트 구현
+  - nginx 리버스 프록시 구성
+  - github action yml 파일 구성
 - 도서 api/front
-
+  - 관리자 및 사용자용 도서 API 전반 개발
+  - 도서 CRUD 및 조회 API 설계
+  - 복합 입력 DTO 기반 도서 등록 흐름 구현
+  - 도서 데이터 구조 설계 및 관리 참여
+  - 관리자 및 사용자용 도서 프론트 전반 개발
+- batch server
+  -  Spring Batch 기반 배치 서버 구성
+  -  운영 스케줄러 구성
+  -  RabbitMQ + Batch Server 연동
 <br />
 
 ---
