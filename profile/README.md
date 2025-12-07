@@ -177,7 +177,11 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
 
 #### 🟤 최덕영
 - config server
-  - 다중 서비스 구조룰 위해 Config Server + Git Repo 중앙 설정 저장소 설계
+  - 다중 서비스 구조를 위한 Spring Cloud Config Server 구축
+  - Git Repo 기반 중앙 설정 저장소 설계
+  - 환경별 프로파일 및 공통 설정 분리
+  - 디렉토리 구조를 활용해 dev/prod/test 설정 분리
+  - Config Server 갱신 시 서비스 재기동 없이 /actuator/refresh 로 설정을 반영할 수 있도록 기반 구성
 - ci/cd
   - 서비스 단위 분리 빌드 파이프라인 설계
   - 무중단 배포 쉘 스크립트 구현
