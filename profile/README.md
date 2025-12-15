@@ -18,6 +18,10 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
 추후 SSO나 OAuth 연동까지 유연하게 대응할 수 있도록 설계했습니다.
 <br /><br />
 
+## 주소
+**[ink3](https://ink3.shop/)**
+**[관리자 페이지](https://ink3.shop/admin)**
+
 ---
 
 ## 🤗 팀을 소개합니다!
