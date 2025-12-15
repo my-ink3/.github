@@ -19,8 +19,10 @@ Gateway, Eureka, API 서버, 인증 서버, 프론트 서버로 구성된<br />
 <br /><br />
 
 ## 주소
-**[ink3](https://ink3.shop/)**
-**[관리자 페이지](https://ink3.shop/admin)**
+**[ink3](https://ink3.shop/)** <br />
+**[관리자 페이지](https://ink3.shop/admin)** <br />
+관리자 아이디: admin2 <br />
+관리자 비밀번호:admin123
 
 ---
 
